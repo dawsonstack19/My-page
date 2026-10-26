@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:01:04	59359/59359	---MCZ	200	added ('OK')	text/html	etag:%22a4217ba27324fa958102afab6218ff88%22	https://canmondale.com/	C:/Users/Administrator/Desktop/Canmondale/ogbolo/canmondale.com/index.html	(from )
+16:01:04	14/14	---M-Z	404	error ('Not%20Found')	text/plain	date:Sat,%2024%20Oct%202026%2023:01:04%20GMT	https://canmondale.com/robots.txt		(from )
